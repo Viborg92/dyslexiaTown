@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestVillage",
+			"Path": "E:\\dyslexiaTown\\TestVillage\\Source\\TestVillage.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestVillageEditor",
+			"Path": "E:\\dyslexiaTown\\TestVillage\\Source\\TestVillageEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

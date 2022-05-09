@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\dyslexiatown\\testvillage\\intermediate\\build\\win64\\unrealeditor\\inc\\testvillage\\testvillage.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\dyslexiatown\\testvillage\\intermediate\\build\\win64\\testvillageeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\dyslexiatown\\testvillage\\intermediate\\build\\win64\\unrealeditor\\development\\testvillage\\definitions.testvillage.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

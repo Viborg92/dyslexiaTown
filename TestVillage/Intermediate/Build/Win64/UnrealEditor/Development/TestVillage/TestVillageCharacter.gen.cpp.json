@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\dyslexiatown\\testvillage\\intermediate\\build\\win64\\unrealeditor\\inc\\testvillage\\testvillagecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\dyslexiatown\\testvillage\\intermediate\\build\\win64\\testvillageeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\dyslexiatown\\testvillage\\intermediate\\build\\win64\\unrealeditor\\development\\testvillage\\definitions.testvillage.h",
+            "e:\\dyslexiatown\\testvillage\\source\\testvillage\\testvillagecharacter.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "e:\\dyslexiatown\\testvillage\\intermediate\\build\\win64\\unrealeditor\\inc\\testvillage\\testvillagecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
